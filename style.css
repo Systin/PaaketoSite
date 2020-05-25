@@ -1,0 +1,23 @@
+header{
+	padding:3%;
+	background-color: black;
+	color:white;
+	height:18%
+}
+header a {
+	background-color:#68228b;
+	margin-left: 5%;
+}
+body{
+	
+	background-color:#68228b;
+}
+a {
+	background-color:black;
+}
+.corpo {
+	color: white;
+}
+h5 {
+	font-size: 10px;
+}
