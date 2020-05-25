@@ -11,21 +11,27 @@ header a {
 }
 body{
 	
-	background-color:#68228b;
+	color:#68228b;
+	background-color:white;
 }
 a {
 	background-color:black;
 }
-.container {
+.btn {
 	color: white;
-	background-color:#68228b;
+}
+.container {
 	margin-left: 3%;
 	margin-right: 3%;
 	padding-top: 3%;
-	border: solid black 15px;
-	border-radius: 10px;
 }
 
 h5 {
 	font-size: 10px;
+}
+.mensagem {
+	position:relative;
+	top:-200px;
+	left:200px;
+	width:50%
 }
