@@ -11,3 +11,8 @@ a:hover {
 .container{
 	padding-top:85px
 }
+.card {
+		text-align:center;
+        margin: 0 auto;
+        margin-bottom: 10px;
+}
