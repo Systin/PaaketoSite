@@ -1,5 +1,5 @@
 body {
-	color: black;
+	color: white;
 }
 
 a{
@@ -9,10 +9,19 @@ a:hover {
 	color: #764896;
 }
 .container{
-	padding-top:85px
+	margin-top:10px;
+	padding-top:85px;
+	background-color:#310D4A;
+	height:100%;
+	width:70%;
+}
+h2,h5 {
+	text-align:center;
+	
 }
 .card {
+		
 		text-align:center;
-        margin: 0 auto;
+        margin: 50px auto;
         margin-bottom: 10px;
 }

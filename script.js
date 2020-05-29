@@ -11,5 +11,5 @@ window.onload = function () {
 	let num = Math.floor(Math.random() * 4);
 		
 	$('#img_animacao_1').attr('src',gifs[num][0]);
-	$('#lb_mensagem_1').html(gifs[num][1]);
+	//$('#lb_mensagem_1').html(gifs[num][1]);
 };
